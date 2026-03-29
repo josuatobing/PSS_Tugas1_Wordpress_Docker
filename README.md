@@ -14,7 +14,7 @@ http://localhost:8000
 ![Install](screenshoots/install.png)
 
 2. Login Admin WordPress
-![Login](screenshots/login%20admin.png)
+![Login](screenshots/login admin.png)
 
 3. WordPress Dashboard
 ![Dashboard](screenshots/dashboard%20WordPress.png)
