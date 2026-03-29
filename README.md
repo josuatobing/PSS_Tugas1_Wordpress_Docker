@@ -12,7 +12,7 @@ http://localhost:8000
 
 Screenshot
 1. WordPress Installation Page
-![Install](screenshoots/install.png)
+![Install](screenshots/install.png)
 
 2. Login Admin WordPress
 ![Login](screenshots/login-admin.png)
