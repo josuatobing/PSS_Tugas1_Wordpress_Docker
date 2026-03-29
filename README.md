@@ -9,24 +9,25 @@ docker ps
 5. Akses WordPress melalui browser
 http://localhost:8000
 6. Lakukan instalasi WordPress melalui halaman web
-📸 Screenshot
+
+Screenshot
 1. WordPress Installation Page
 ![Install](screenshoots/install.png)
 
 2. Login Admin WordPress
-![Login](screenshots/login admin.png)
+![Login](screenshots/login-admin.png)
 
 3. WordPress Dashboard
-![Dashboard](screenshots/dashboard%20WordPress.png)
+![Dashboard](screenshots/dashboard.png)
 
 4. Dashboard Admin WordPress
-![Dashboard Admin](screenshots/dashboard%20admin%20WordPress.png)
+![Dashboard Admin](screenshots/dashboard-admin.png)
 
 5. Docker Containers Running
-![Docker PS](screenshots/docker%20ps.png)
+![Docker PS](screenshots/docker-ps.png)
 
 6. Redis CLI Ping Test
-![Redis](screenshots/test%20ping%20redis.png)
+![Redis](screenshots/test-ping-redis.png)
 
 Jawaban Pertanyaan
 1. Kenapa perlu volume untuk MySQL?
